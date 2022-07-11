@@ -1,0 +1,4900 @@
+{
+  "title": "Addexponent toCFG",
+  "steps": [
+    {
+      "type": "setViewport",
+      "width": 1093,
+      "height": 852,
+      "deviceScaleFactor": 1,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    },
+    {
+      "type": "navigate",
+      "url": "https://replit.com/@Ishrat14/Add-exponent-to-CFG#main.py",
+      "assertedEvents": [
+        {
+          "type": "navigation",
+          "url": "https://replit.com/@Ishrat14/Add-exponent-to-CFG#main.py",
+          "title": "main.py - Add exponent to CFG - Replit"
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "[data-cy=ws-run-btn] > div > div > span"
+        ]
+      ],
+      "offsetY": 9.333332061767578,
+      "offsetX": 2.23956298828125
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "aria/Run"
+        ],
+        [
+          "[data-cy=language-page-run-button]"
+        ]
+      ],
+      "offsetY": 11,
+      "offsetX": 42.33331298828125
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#main-content > div.jsx-849e56f81ae5af67.workspace-page-wrapper.desktop > div > div > div:nth-child(5) > div > div > div > div > div.cm-scroller > div.cm-content.cm-lineWrapping > div.cm-activeLine.cm-line > span > span:nth-child(1)"
+        ]
+      ],
+      "offsetY": 1,
+      "offsetX": 0.166656494140625
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Enter"
+    },
+    {
+      "type": "keyUp",
+      "key": "Enter",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Enter"
+    },
+    {
+      "type": "keyUp",
+      "key": "Enter",
+      "target": "main"
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#main-content > div.jsx-849e56f81ae5af67.workspace-page-wrapper.desktop > div > div > div:nth-child(5) > div > div > div > div > div.cm-scroller > div.cm-content.cm-lineWrapping > div:nth-child(1)"
+        ]
+      ],
+      "offsetY": 9,
+      "offsetX": 4.166656494140625
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "#"
+    },
+    {
+      "type": "keyUp",
+      "key": "#",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "I"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "s"
+    },
+    {
+      "type": "keyUp",
+      "key": "s",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "h"
+    },
+    {
+      "type": "keyUp",
+      "key": "h",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "a"
+    },
+    {
+      "type": "keyUp",
+      "key": "a",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "A"
+    },
+    {
+      "type": "keyUp",
+      "key": "A",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "m"
+    },
+    {
+      "type": "keyUp",
+      "key": "m",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Enter"
+    },
+    {
+      "type": "keyUp",
+      "key": "Enter",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Enter"
+    },
+    {
+      "type": "keyUp",
+      "key": "Enter",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "#"
+    },
+    {
+      "type": "keyUp",
+      "key": "#",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "D"
+    },
+    {
+      "type": "keyUp",
+      "key": "D",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "s"
+    },
+    {
+      "type": "keyUp",
+      "key": "s",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "c"
+    },
+    {
+      "type": "keyUp",
+      "key": "c",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "p"
+    },
+    {
+      "type": "keyUp",
+      "key": "p",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": ":"
+    },
+    {
+      "type": "keyUp",
+      "key": ":",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Enter"
+    },
+    {
+      "type": "keyUp",
+      "key": "Enter",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "T"
+    },
+    {
+      "type": "keyUp",
+      "key": "T",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "h"
+    },
+    {
+      "type": "keyUp",
+      "key": "h",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "s"
+    },
+    {
+      "type": "keyUp",
+      "key": "s",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "c"
+    },
+    {
+      "type": "keyUp",
+      "key": "c",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "d"
+    },
+    {
+      "type": "keyUp",
+      "key": "d",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "d"
+    },
+    {
+      "type": "keyUp",
+      "key": "d",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "f"
+    },
+    {
+      "type": "keyUp",
+      "key": "f",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "s"
+    },
+    {
+      "type": "keyUp",
+      "key": "s",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "C"
+    },
+    {
+      "type": "keyUp",
+      "key": "C",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "F"
+    },
+    {
+      "type": "keyUp",
+      "key": "F",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "G"
+    },
+    {
+      "type": "keyUp",
+      "key": "G",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "."
+    },
+    {
+      "type": "keyUp",
+      "key": ".",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "I"
+    },
+    {
+      "type": "keyUp",
+      "key": "I",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "N"
+    },
+    {
+      "type": "keyUp",
+      "key": "N",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "h"
+    },
+    {
+      "type": "keyUp",
+      "key": "h",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "s"
+    },
+    {
+      "type": "keyUp",
+      "key": "s",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "c"
+    },
+    {
+      "type": "keyUp",
+      "key": "c",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "d"
+    },
+    {
+      "type": "keyUp",
+      "key": "d",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#main-content > div.jsx-849e56f81ae5af67.workspace-page-wrapper.desktop > div > div > div:nth-child(5) > div > div > div > div > div.cm-scroller > div.cm-content.cm-lineWrapping > div.cm-activeLine.cm-line > span:nth-child(7)"
+        ]
+      ],
+      "offsetY": 10,
+      "offsetX": 16.666656494140625
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#main-content > div.jsx-849e56f81ae5af67.workspace-page-wrapper.desktop > div > div > div:nth-child(5) > div > div > div > div > div.cm-scroller > div.cm-content.cm-lineWrapping > div.cm-activeLine.cm-line > span:nth-child(7)"
+        ]
+      ],
+      "offsetY": 10,
+      "offsetX": 16.666656494140625
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#main-content > div.jsx-849e56f81ae5af67.workspace-page-wrapper.desktop > div > div > div:nth-child(5) > div > div > div > div > div.cm-scroller > div.cm-content.cm-lineWrapping > div.cm-activeLine.cm-line > span:nth-child(9) > span"
+        ]
+      ],
+      "offsetY": 6,
+      "offsetX": 32.20831298828125
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#main-content > div.jsx-849e56f81ae5af67.workspace-page-wrapper.desktop > div > div > div:nth-child(5) > div > div > div > div > div.cm-scroller > div.cm-content.cm-lineWrapping > div.cm-activeLine.cm-line"
+        ]
+      ],
+      "offsetY": 10,
+      "offsetX": 298.1666564941406
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "u"
+    },
+    {
+      "type": "keyUp",
+      "key": "u",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "a"
+    },
+    {
+      "type": "keyUp",
+      "key": "a",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "s"
+    },
+    {
+      "type": "keyUp",
+      "key": "s",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "k"
+    },
+    {
+      "type": "keyUp",
+      "key": "k",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "s"
+    },
+    {
+      "type": "keyUp",
+      "key": "s",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "a"
+    },
+    {
+      "type": "keyUp",
+      "key": "a",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "d"
+    },
+    {
+      "type": "keyUp",
+      "key": "d",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "d"
+    },
+    {
+      "type": "keyUp",
+      "key": "d",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "x"
+    },
+    {
+      "type": "keyUp",
+      "key": "x",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "p"
+    },
+    {
+      "type": "keyUp",
+      "key": "p",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "C"
+    },
+    {
+      "type": "keyUp",
+      "key": "C",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "F"
+    },
+    {
+      "type": "keyUp",
+      "key": "F",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "G"
+    },
+    {
+      "type": "keyUp",
+      "key": "G",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "."
+    },
+    {
+      "type": "keyUp",
+      "key": ".",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "T"
+    },
+    {
+      "type": "keyUp",
+      "key": "T",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "h"
+    },
+    {
+      "type": "keyUp",
+      "key": "h",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "O"
+    },
+    {
+      "type": "keyUp",
+      "key": "O",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "l"
+    },
+    {
+      "type": "keyUp",
+      "key": "l",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "1"
+    },
+    {
+      "type": "keyUp",
+      "key": "1",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "4"
+    },
+    {
+      "type": "keyUp",
+      "key": "4",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "a"
+    },
+    {
+      "type": "keyUp",
+      "key": "a",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "d"
+    },
+    {
+      "type": "keyUp",
+      "key": "d",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "d"
+    },
+    {
+      "type": "keyUp",
+      "key": "d",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "d"
+    },
+    {
+      "type": "keyUp",
+      "key": "d",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "a"
+    },
+    {
+      "type": "keyUp",
+      "key": "a",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "x"
+    },
+    {
+      "type": "keyUp",
+      "key": "x",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "p"
+    },
+    {
+      "type": "keyUp",
+      "key": "p",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "p"
+    },
+    {
+      "type": "keyUp",
+      "key": "p",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "a"
+    },
+    {
+      "type": "keyUp",
+      "key": "a",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "w"
+    },
+    {
+      "type": "keyUp",
+      "key": "w",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "h"
+    },
+    {
+      "type": "keyUp",
+      "key": "h",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "c"
+    },
+    {
+      "type": "keyUp",
+      "key": "c",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "h"
+    },
+    {
+      "type": "keyUp",
+      "key": "h",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "s"
+    },
+    {
+      "type": "keyUp",
+      "key": "s",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "'"
+    },
+    {
+      "type": "keyUp",
+      "key": "'",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "^"
+    },
+    {
+      "type": "keyUp",
+      "key": "^",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "ArrowRight"
+    },
+    {
+      "type": "keyUp",
+      "key": "ArrowRight",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "a"
+    },
+    {
+      "type": "keyUp",
+      "key": "a",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "d"
+    },
+    {
+      "type": "keyUp",
+      "key": "d",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "h"
+    },
+    {
+      "type": "keyUp",
+      "key": "h",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "c"
+    },
+    {
+      "type": "keyUp",
+      "key": "c",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "h"
+    },
+    {
+      "type": "keyUp",
+      "key": "h",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "a"
+    },
+    {
+      "type": "keyUp",
+      "key": "a",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "g"
+    },
+    {
+      "type": "keyUp",
+      "key": "g",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "d"
+    },
+    {
+      "type": "keyUp",
+      "key": "d",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "h"
+    },
+    {
+      "type": "keyUp",
+      "key": "h",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "g"
+    },
+    {
+      "type": "keyUp",
+      "key": "g",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "a"
+    },
+    {
+      "type": "keyUp",
+      "key": "a",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "m"
+    },
+    {
+      "type": "keyUp",
+      "key": "m",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "m"
+    },
+    {
+      "type": "keyUp",
+      "key": "m",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "a"
+    },
+    {
+      "type": "keyUp",
+      "key": "a",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "a"
+    },
+    {
+      "type": "keyUp",
+      "key": "a",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "c"
+    },
+    {
+      "type": "keyUp",
+      "key": "c",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "c"
+    },
+    {
+      "type": "keyUp",
+      "key": "c",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "d"
+    },
+    {
+      "type": "keyUp",
+      "key": "d",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "g"
+    },
+    {
+      "type": "keyUp",
+      "key": "g",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#main-content > div.jsx-849e56f81ae5af67.workspace-page-wrapper.desktop > div > div > div:nth-child(5) > div > div > div > div > div.cm-scroller > div.cm-content.cm-lineWrapping > div.cm-activeLine.cm-line > span:nth-child(23)"
+        ]
+      ],
+      "offsetY": 10,
+      "offsetX": 58.39581298828125
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#main-content > div.jsx-849e56f81ae5af67.workspace-page-wrapper.desktop > div > div > div:nth-child(5) > div > div > div > div > div.cm-scroller > div.cm-content.cm-lineWrapping > div.cm-activeLine.cm-line > span:nth-child(23) > span"
+        ]
+      ],
+      "offsetY": 10,
+      "offsetX": 57.39581298828125
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "s"
+    },
+    {
+      "type": "keyUp",
+      "key": "s",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "c"
+    },
+    {
+      "type": "keyUp",
+      "key": "c",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#main-content > div.jsx-849e56f81ae5af67.workspace-page-wrapper.desktop > div > div > div:nth-child(5) > div > div > div > div > div.cm-scroller > div.cm-content.cm-lineWrapping > div.cm-activeLine.cm-line > span:nth-child(23) > span:nth-child(3)"
+        ]
+      ],
+      "offsetY": 3,
+      "offsetX": 13.21875
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#main-content > div.jsx-849e56f81ae5af67.workspace-page-wrapper.desktop > div > div > div:nth-child(5) > div > div > div > div > div.cm-scroller > div.cm-content.cm-lineWrapping > div.cm-activeLine.cm-line"
+        ]
+      ],
+      "offsetY": 77,
+      "offsetX": 342.1666564941406
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "g"
+    },
+    {
+      "type": "keyUp",
+      "key": "g",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "a"
+    },
+    {
+      "type": "keyUp",
+      "key": "a",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "m"
+    },
+    {
+      "type": "keyUp",
+      "key": "m",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "m"
+    },
+    {
+      "type": "keyUp",
+      "key": "m",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "a"
+    },
+    {
+      "type": "keyUp",
+      "key": "a",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "."
+    },
+    {
+      "type": "keyUp",
+      "key": ".",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "A"
+    },
+    {
+      "type": "keyUp",
+      "key": "A",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "s"
+    },
+    {
+      "type": "keyUp",
+      "key": "s",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "O"
+    },
+    {
+      "type": "keyUp",
+      "key": "O",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "u"
+    },
+    {
+      "type": "keyUp",
+      "key": "u",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "M"
+    },
+    {
+      "type": "keyUp",
+      "key": "M",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "y"
+    },
+    {
+      "type": "keyUp",
+      "key": "y",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "u"
+    },
+    {
+      "type": "keyUp",
+      "key": "u",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "p"
+    },
+    {
+      "type": "keyUp",
+      "key": "p",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "u"
+    },
+    {
+      "type": "keyUp",
+      "key": "u",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "s"
+    },
+    {
+      "type": "keyUp",
+      "key": "s",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "s"
+    },
+    {
+      "type": "keyUp",
+      "key": "s",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "h"
+    },
+    {
+      "type": "keyUp",
+      "key": "h",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "w"
+    },
+    {
+      "type": "keyUp",
+      "key": "w",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "h"
+    },
+    {
+      "type": "keyUp",
+      "key": "h",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "g"
+    },
+    {
+      "type": "keyUp",
+      "key": "g",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "h"
+    },
+    {
+      "type": "keyUp",
+      "key": "h",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "h"
+    },
+    {
+      "type": "keyUp",
+      "key": "h",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "a"
+    },
+    {
+      "type": "keyUp",
+      "key": "a",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "d"
+    },
+    {
+      "type": "keyUp",
+      "key": "d",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "s"
+    },
+    {
+      "type": "keyUp",
+      "key": "s",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "d"
+    },
+    {
+      "type": "keyUp",
+      "key": "d",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "f"
+    },
+    {
+      "type": "keyUp",
+      "key": "f",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "h"
+    },
+    {
+      "type": "keyUp",
+      "key": "h",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "I"
+    },
+    {
+      "type": "keyUp",
+      "key": "I",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "D"
+    },
+    {
+      "type": "keyUp",
+      "key": "D",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "E"
+    },
+    {
+      "type": "keyUp",
+      "key": "E",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "."
+    },
+    {
+      "type": "keyUp",
+      "key": ".",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Enter"
+    },
+    {
+      "type": "keyUp",
+      "key": "Enter",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Enter"
+    },
+    {
+      "type": "keyUp",
+      "key": "Enter",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Shift"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "I"
+    },
+    {
+      "type": "keyUp",
+      "key": "I",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Shift",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "s"
+    },
+    {
+      "type": "keyUp",
+      "key": "s",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "h"
+    },
+    {
+      "type": "keyUp",
+      "key": "h",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "s"
+    },
+    {
+      "type": "keyUp",
+      "key": "s",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "c"
+    },
+    {
+      "type": "keyUp",
+      "key": "c",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "d"
+    },
+    {
+      "type": "keyUp",
+      "key": "d",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Backspace"
+    },
+    {
+      "type": "keyUp",
+      "key": "Backspace",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": ","
+    },
+    {
+      "type": "keyUp",
+      "key": ",",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "m"
+    },
+    {
+      "type": "keyUp",
+      "key": "m",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "p"
+    },
+    {
+      "type": "keyUp",
+      "key": "p",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "d"
+    },
+    {
+      "type": "keyUp",
+      "key": "d",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "n"
+    },
+    {
+      "type": "keyUp",
+      "key": "n",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "l"
+    },
+    {
+      "type": "keyUp",
+      "key": "l",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "k"
+    },
+    {
+      "type": "keyUp",
+      "key": "k",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "l"
+    },
+    {
+      "type": "keyUp",
+      "key": "l",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "i"
+    },
+    {
+      "type": "keyUp",
+      "key": "i",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "b"
+    },
+    {
+      "type": "keyUp",
+      "key": "b",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "a"
+    },
+    {
+      "type": "keyUp",
+      "key": "a",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "y"
+    },
+    {
+      "type": "keyUp",
+      "key": "y",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "o"
+    },
+    {
+      "type": "keyUp",
+      "key": "o",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "d"
+    },
+    {
+      "type": "keyUp",
+      "key": "d",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "a"
+    },
+    {
+      "type": "keyUp",
+      "key": "a",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "w"
+    },
+    {
+      "type": "keyUp",
+      "key": "w",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "h"
+    },
+    {
+      "type": "keyUp",
+      "key": "h",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "p"
+    },
+    {
+      "type": "keyUp",
+      "key": "p",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "a"
+    },
+    {
+      "type": "keyUp",
+      "key": "a",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "s"
+    },
+    {
+      "type": "keyUp",
+      "key": "s",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": " "
+    },
+    {
+      "type": "keyUp",
+      "key": " ",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "t"
+    },
+    {
+      "type": "keyUp",
+      "key": "t",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "r"
+    },
+    {
+      "type": "keyUp",
+      "key": "r",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "e"
+    },
+    {
+      "type": "keyUp",
+      "key": "e",
+      "target": "main"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "."
+    },
+    {
+      "type": "keyUp",
+      "key": ".",
+      "target": "main"
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#main-content > div.jsx-849e56f81ae5af67.workspace-page-wrapper.desktop > div > div > div:nth-child(5) > div > div > div > div > div.cm-scroller > div.cm-content.cm-lineWrapping > div:nth-child(4) > span:nth-child(1)"
+        ]
+      ],
+      "offsetY": 243,
+      "offsetX": 162.16665649414062,
+      "duration": 1674.5
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Control"
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "/"
+    },
+    {
+      "type": "keyUp",
+      "key": "/",
+      "target": "main"
+    },
+    {
+      "type": "keyUp",
+      "key": "Control",
+      "target": "main"
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#main-content > div.jsx-849e56f81ae5af67.workspace-page-wrapper.desktop > div > div > div:nth-child(5) > div > div > div > div > div.cm-scroller > div.cm-content.cm-lineWrapping > div:nth-child(7)"
+        ]
+      ],
+      "offsetY": 16,
+      "offsetX": 250.16665649414062
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "[data-cy=ws-run-btn] > div > div > span"
+        ]
+      ],
+      "offsetY": 13.333332061767578,
+      "offsetX": 4.23956298828125
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "[data-cy=language-page-run-button] > span"
+        ]
+      ],
+      "offsetY": 13.333332061767578,
+      "offsetX": 1.8541259765625
+    }
+  ]
+}

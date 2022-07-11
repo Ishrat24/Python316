@@ -1,0 +1,46 @@
+{
+  "title": "Area of circle",
+  "steps": [
+    {
+      "type": "setViewport",
+      "width": 1055,
+      "height": 884,
+      "deviceScaleFactor": 1,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    },
+    {
+      "type": "navigate",
+      "url": "https://replit.com/@Ishrat14/CSCI381-HW1#main.py",
+      "assertedEvents": [
+        {
+          "type": "navigation",
+          "url": "https://replit.com/@Ishrat14/CSCI381-HW1#main.py",
+          "title": "main.py - CSCI381-HW1 - Replit"
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "[data-cy=language-page-run-button] > span"
+        ]
+      ],
+      "offsetY": 9.333332061767578,
+      "offsetX": 22.8541259765625
+    },
+    {
+      "type": "keyDown",
+      "target": "main",
+      "key": "Enter"
+    },
+    {
+      "type": "keyUp",
+      "key": "Enter",
+      "target": "main"
+    }
+  ]
+}
